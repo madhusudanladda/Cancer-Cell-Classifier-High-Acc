@@ -98,7 +98,7 @@ The confusion matrix visualizes correct and incorrect predictions:
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/Cancer-Cell-Classifier-High-Acc.git
+git clone [https://github.com/madhusudanladda/Cancer-Cell-Classifier-High-Acc.git](https://github.com/madhusudanladda/Cancer-Cell-Classifier-High-Acc.git)
 
 cd Cancer-Cell-Classifier-High-Acc
 
